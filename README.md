@@ -1,17 +1,28 @@
-# Data Science Bootcamp 11
-👋🏻Hi! My name is Kittitouch Tantiwong (Flook)
+# 👋🏻 Hi! I'm Kittitouch Tantiwong (Flook)
 
-## My personal projects
+🎓 **Participant of Data Science Bootcamp 11**
 
- 1. SQL supermarket analysis
- 2. SQL churn analysis
- 3. R programming
- 4. Looker GA4 Dashborad
- 5. Linear Regression Model using caret
- 
-## Contact Me reach out to me at flook11223344@gmail.com
+---
 
-## 🚀 Languages and Tools I Use
+## 💼 My Personal Projects
+
+- Google Sheets Automation  
+- Database Management  
+- R Programming Projects  
+- Data Transformation (with dplyr, pandas)  
+- Data Visualization (ggplot2, matplotlib)  
+- Statistics and Exploratory Data Analysis  
+- Machine Learning Models  
+- Python Scripting  
+- Interactive Dashboards (Looker Studio, Shiny)
+
+---
+
+## 📬 Contact Me
+
+Feel free to reach out at: **flook11223344@gmail.com**
+
+---
 
 ## 🚀 Languages and Tools I Use
 
