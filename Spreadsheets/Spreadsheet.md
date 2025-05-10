@@ -10,7 +10,7 @@
 ---
 
 ## 2. Google Sheets 102  
-**Contents:**  
+**[Contents](https://docs.google.com/spreadsheets/d/1IyzZwACybWrAPWBpG9aO5LcqeziIdlK4zLGlViSnVMg/edit?usp=sharing):**  
 - Data Entry, Array Formula, Import Data  
 - Filtering & Sorting, Creating Conditions  
 - Advanced Conditions, Conditional Formatting  
