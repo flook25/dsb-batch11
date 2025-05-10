@@ -1,4 +1,5 @@
 # 👋🏻 Hi! I'm Kittitouch Tantiwong (Flook 🐥)
+<img src="ptoy.jpeg" alt="Kittitouch Tantiwong (Flook)" height="200"/>
 
 **🎓 Participant of Data Science Bootcamp 11**  
 <img src="https://yt3.googleusercontent.com/jjULZiKN-Oo34wv49660673oWc1u628QpN2u2l-L7xIvClKSGxrGVUQewGj7jY6K6rR5Ml4bTEk=s900-c-k-c0x00ffffff-no-rj" alt="DataRockie" height="80"/>
