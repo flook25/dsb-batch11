@@ -1,26 +1,34 @@
-# 👋🏻 Hi! I'm Kittitouch Tantiwong (Flook)
+# 👋🏻 Hi! I'm Kittitouch Tantiwong (Flook 🐥)
 
-🎓 **Participant of Data Science Bootcamp 11**
+**🎓 Participant of Data Science Bootcamp 11**  
+<img src="https://yt3.googleusercontent.com/jjULZiKN-Oo34wv49660673oWc1u628QpN2u2l-L7xIvClKSGxrGVUQewGj7jY6K6rR5Ml4bTEk=s900-c-k-c0x00ffffff-no-rj" alt="DataRockie" height="80"/>
 
 ---
 
-## 💼 My Personal Projects
+## 💼 My Personal Projects 
 
 - Google Sheets Automation  
-- Database Management  
-- R Programming Projects  
-- Data Transformation (with dplyr, pandas)  
-- Data Visualization (ggplot2, matplotlib)  
-- Statistics and Exploratory Data Analysis  
+- SQLite Projects  
+- R Programming  
+- Data Transformation (with `dplyr`, `pandas`)  
+- Data Visualization (`ggplot2`, `matplotlib`)  
+- Statistics & Exploratory Data Analysis  
 - Machine Learning Models  
 - Python Scripting  
-- Interactive Dashboards (Looker Studio, Shiny)
+- Interactive Dashboards (Looker Studio)
 
 ---
 
 ## 📬 Contact Me
 
-Feel free to reach out at: **flook11223344@gmail.com**
+<p align="left">
+  <a href="mailto:flook11223344@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kittitouch-tantiwong-a74016267" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
