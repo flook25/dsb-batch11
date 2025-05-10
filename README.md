@@ -5,9 +5,9 @@
 </p>
 
 **🎓 Participant of Data Science Bootcamp 11**  
-<p align="center">
+
 <img src="https://yt3.googleusercontent.com/jjULZiKN-Oo34wv49660673oWc1u628QpN2u2l-L7xIvClKSGxrGVUQewGj7jY6K6rR5Ml4bTEk=s900-c-k-c0x00ffffff-no-rj" alt="DataRockie" height="80"/>
-</p>
+
 ---
 
 ## 💼 My Personal Projects 
@@ -38,7 +38,11 @@
 ---
 
 ## 🚀 Languages and Tools I Use
-
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
-  <img src="
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
+  <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="dplyr" height="40"/>
+</p>
