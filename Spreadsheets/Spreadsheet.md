@@ -21,7 +21,7 @@
 - Sparkline Basics
 
 **Mini Projects:**  
-- Dynamic Query  
+**[Dynamic Query](https://docs.google.com/spreadsheets/d/1IyzZwACybWrAPWBpG9aO5LcqeziIdlK4zLGlViSnVMg/edit?usp=sharing)**
 - Convert TH to EN Date  
 - ID Card Parser (using Regular Expressions)
 
