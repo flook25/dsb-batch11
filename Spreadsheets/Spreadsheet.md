@@ -1,7 +1,7 @@
 # 📗 Spreadsheets & Mini Projects
 
 ## 1. Google Sheets 101  
-**Contents:**  
+**[Contents](https://docs.google.com/spreadsheets/d/1AAkPNyBzh0YALzXeFCn-CnExv6e-BiSuUAq4ESHR-oo/edit?usp=sharing):**  
 - Import CSV data  
 - `COUNTIFS`, `SUMIFS`, `FILTER`, `SORT`  
 - `VLOOKUP`, `VLOOKUP II`, `INDEX MATCH`  
