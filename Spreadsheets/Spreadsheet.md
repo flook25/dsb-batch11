@@ -30,10 +30,17 @@
 ---
 
 ## 3. Google Sheets 103  
-**[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1XB9FxBuivM-_OPE1LK2uzbhNKow4iI14p22Ic_5iPK4/edit?usp=sharing):**  
-- Input Data, Cell Reference, Functions  
-- `IF` Array, `IFS`, `AND`, `OR`, `NOT`, `SWITCH`  
-- `AVERAGE`, `SUM`, `AVERAGEIF`
+## 3. Google Sheets 103  
+**[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1XB9FxBuivM-_OPE1LK2uzbhNKow4iI14p22Ic_5iPK4/edit?usp=sharing)**
+
+**🧠 Topics Covered:**
+- 📊 Datasets & Selecting Data  
+- 🔍 Filtering & Dealing with NULLs  
+- 🧮 Aggregating Data (Basic & Grouped)  
+- 🏷️ Labeling Columns  
+- 🔄 Pivoting Data  
+- 📌 Ordering Results  
+- 🧠 Creating Dynamic Queries
 
 ---
 
