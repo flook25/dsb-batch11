@@ -28,7 +28,7 @@
 ---
 
 ## 3. Google Sheets 103  
-**Contents:**  
+**[Contents](https://docs.google.com/spreadsheets/d/1XB9FxBuivM-_OPE1LK2uzbhNKow4iI14p22Ic_5iPK4/edit?usp=sharing):**  
 - Input Data, Cell Reference, Functions  
 - `IF` Array, `IFS`, `AND`, `OR`, `NOT`, `SWITCH`  
 - `AVERAGE`, `SUM`, `AVERAGEIF`
@@ -36,13 +36,13 @@
 ---
 
 ## 4. Google Sheets 104  
-**Contents:**  
+**[Contents](https://docs.google.com/spreadsheets/d/1As5pL3qz0UTWm6Y8O3YiHX5eo2gsXC3jVLvwMKb44JA/edit?usp=sharing):**  
 - Filter Tool  
 - Pivot Table
 
 ---
 
 ## 5. Google Sheets with Visualization  
-**Contents:**  
+**[Contents](https://docs.google.com/spreadsheets/d/1rtSgGHWt60KQ6O8f5fSpZlaVEgkl7tofBFEduUBW3oo/edit?usp=sharing):**  
 - Data dashboards and charting using built-in tools  
 - Clean formatting for stakeholder communication
