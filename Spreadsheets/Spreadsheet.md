@@ -3,11 +3,11 @@
 ## 1. Google Sheets 101  
 **[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1AAkPNyBzh0YALzXeFCn-CnExv6e-BiSuUAq4ESHR-oo/edit?usp=sharing)**
 
-**🧠 Topics Covered:**
-- 📥 Input Data & Cell References  
-- 🧮 Intro to Functions  
-- 🔀 Logic: `IF`, `IFS`, `AND`, `OR`, `NOT`, `SWITCH`  
-- ➗ Math: `AVERAGE`, `SUM`, `AVERAGEIF`
+**Topics Covered:**
+- Input Data & Cell References  
+- Intro to Functions  
+- Logic: `IF`, `IFS`, `AND`, `OR`, `NOT`, `SWITCH`  
+- Math: `AVERAGE`, `SUM`, `AVERAGEIF`
 
 ---
 
@@ -29,18 +29,18 @@
 
 ---
 
-## 3. Google Sheets 103  
+
 ## 3. Google Sheets 103  
 **[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1XB9FxBuivM-_OPE1LK2uzbhNKow4iI14p22Ic_5iPK4/edit?usp=sharing)**
 
-**🧠 Topics Covered:**
-- 📊 Datasets & Selecting Data  
-- 🔍 Filtering & Dealing with NULLs  
-- 🧮 Aggregating Data (Basic & Grouped)  
-- 🏷️ Labeling Columns  
-- 🔄 Pivoting Data  
-- 📌 Ordering Results  
-- 🧠 Creating Dynamic Queries
+**Topics Covered:**
+- Datasets & Selecting Data  
+- Filtering & Dealing with NULLs  
+- Aggregating Data (Basic & Grouped)  
+- Labeling Columns  
+- Pivoting Data  
+- Ordering Results  
+- Creating Dynamic Queries
 
 ---
 
