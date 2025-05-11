@@ -76,7 +76,10 @@ if st.session_state.last_result:
 
 # Reset button
 if st.button("🔁 Reset Game"):
-    for key in ['win', 'loss', 'tie', 'round', 'last_result']:
-        st.session_state[key] = 0 if key != 'last_result' else None
-    st.experimental_rerun()
+    st.session_state.win = 0
+    st.session_state.loss = 0
+    st.session_state.tie = 0
+    st.session_state.round = 0
+    st.session_state.last_result = None
+    st.rerun()  # or st.experimental_rerun() for older versions
 
