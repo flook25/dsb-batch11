@@ -2,7 +2,7 @@
 
 Play the classic **Rock, Paper, Scissors** game in your browser with a fun, icon-based interface. Built with [Streamlit](https://streamlit.io/), this app offers a clean UI, real-time scoring, and instant results.
 
-![screenshot](https://cdn-icons-png.flaticon.com/128/10363/10363577.png)
+👉 **Live Demo:** [Click here to play!](https://dsb-batch11-hhjhkygr3je8d2bsuf7u5p.streamlit.app)
 
 ---
 
