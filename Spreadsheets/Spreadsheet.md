@@ -23,7 +23,7 @@
 **Mini Projects:**  
 - 🔄 [Dynamic Query](https://docs.google.com/spreadsheets/d/1lg1INdLBKaa5sX0ZALAAvQzmJvKSgLNovgjsU-feJTk/edit?usp=sharing)  
 - 🗓️ [Convert TH to EN Date](https://docs.google.com/spreadsheets/d/1IyzZwACybWrAPWBpG9aO5LcqeziIdlK4zLGlViSnVMg/edit?usp=sharing)  
-- 🆔 [ID Card Parser (using Regular Expressions)](https://docs.google.com/spreadsheets/d/1IyzZwACybWrAPWBpG9aO5LcqeziIdlK4zLGlViSnVMg/edit?usp=sharing)
+- 🆔 [ID Card Parser (using Regular Expressions)](https://docs.google.com/spreadsheets/d/1NL9KJ2kg83pA3HrHwsnOXfFQ4T4Hu1q_3UYn03Ne37w/edit?usp=sharing)
 
 ---
 
