@@ -1,16 +1,18 @@
 # 📗 Spreadsheets & Mini Projects
 
 ## 1. Google Sheets 101  
-**[Contents](https://docs.google.com/spreadsheets/d/1AAkPNyBzh0YALzXeFCn-CnExv6e-BiSuUAq4ESHR-oo/edit?usp=sharing):**  
-- Import CSV data  
-- `COUNTIFS`, `SUMIFS`, `FILTER`, `SORT`  
-- `VLOOKUP`, `VLOOKUP II`, `INDEX MATCH`  
-- `DATE`, `DATEDIF`
+**[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1AAkPNyBzh0YALzXeFCn-CnExv6e-BiSuUAq4ESHR-oo/edit?usp=sharing)**
+
+**🧠 Topics Covered:**
+- 📥 Input Data & Cell References  
+- 🧮 Intro to Functions  
+- 🔀 Logic: `IF`, `IFS`, `AND`, `OR`, `NOT`, `SWITCH`  
+- ➗ Math: `AVERAGE`, `SUM`, `AVERAGEIF`
 
 ---
 
 ## 2. Google Sheets 102  
-**[Contents](https://docs.google.com/spreadsheets/d/1IyzZwACybWrAPWBpG9aO5LcqeziIdlK4zLGlViSnVMg/edit?usp=sharing):**  
+**[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1IyzZwACybWrAPWBpG9aO5LcqeziIdlK4zLGlViSnVMg/edit?usp=sharing):**  
 - Data Entry, Array Formula, Import Data  
 - Filtering & Sorting, Creating Conditions  
 - Advanced Conditions, Conditional Formatting  
@@ -28,7 +30,7 @@
 ---
 
 ## 3. Google Sheets 103  
-**[Contents](https://docs.google.com/spreadsheets/d/1XB9FxBuivM-_OPE1LK2uzbhNKow4iI14p22Ic_5iPK4/edit?usp=sharing):**  
+**[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1XB9FxBuivM-_OPE1LK2uzbhNKow4iI14p22Ic_5iPK4/edit?usp=sharing):**  
 - Input Data, Cell Reference, Functions  
 - `IF` Array, `IFS`, `AND`, `OR`, `NOT`, `SWITCH`  
 - `AVERAGE`, `SUM`, `AVERAGEIF`
@@ -36,13 +38,13 @@
 ---
 
 ## 4. Google Sheets 104  
-**[Contents](https://docs.google.com/spreadsheets/d/1As5pL3qz0UTWm6Y8O3YiHX5eo2gsXC3jVLvwMKb44JA/edit?usp=sharing):**  
+**[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1As5pL3qz0UTWm6Y8O3YiHX5eo2gsXC3jVLvwMKb44JA/edit?usp=sharing):**  
 - Filter Tool  
 - Pivot Table
 
 ---
 
 ## 5. Google Sheets with Visualization  
-**[Contents](https://docs.google.com/spreadsheets/d/1rtSgGHWt60KQ6O8f5fSpZlaVEgkl7tofBFEduUBW3oo/edit?usp=sharing):**  
+**[📄 Open Sheet](https://docs.google.com/spreadsheets/d/1rtSgGHWt60KQ6O8f5fSpZlaVEgkl7tofBFEduUBW3oo/edit?usp=sharing):**  
 - Data dashboards and charting using built-in tools  
 - Clean formatting for stakeholder communication
