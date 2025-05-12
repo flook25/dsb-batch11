@@ -1,11 +1,12 @@
 library(shiny)
 
+# Define UI
 ui <- fluidPage(
-  titlePanel("Rock, Paper, Scissors Game"),
-  
+  titlePanel("Pao Ying Chub - Rock, Paper, Scissors"),
+
   sidebarLayout(
     sidebarPanel(
-      h4("Choose your move:"),
+      h4("Make your choice:"),
       actionButton("rock", "🪨 Rock"),
       actionButton("paper", "📄 Paper"),
       actionButton("scissors", "✂️ Scissors"),
@@ -15,7 +16,7 @@ ui <- fluidPage(
       verbatimTextOutput("result"),
       verbatimTextOutput("score")
     ),
-    
+
     mainPanel(
       h4("Game Log"),
       verbatimTextOutput("log")
@@ -23,14 +24,14 @@ ui <- fluidPage(
   )
 )
 
+# Define Server Logic
 server <- function(input, output, session) {
   choices <- c("rock", "paper", "scissors")
   score <- reactiveValues(player = 0, computer = 0, tie = 0, log = "")
-  
+
   play_round <- function(player_choice) {
     computer_choice <- sample(choices, 1)
-    
-    outcome <- ""
+
     if (player_choice == computer_choice) {
       outcome <- "It's a tie!"
       score$tie <- score$tie + 1
@@ -45,25 +46,24 @@ server <- function(input, output, session) {
       outcome <- "Computer wins!"
       score$computer <- score$computer + 1
     }
-    
-    round_log <- paste0("You chose ", player_choice, ", computer chose ", computer_choice, " -> ", outcome)
+
+    round_log <- paste0("You chose ", player_choice, ", computer chose ", computer_choice, " → ", outcome)
     score$log <- paste(round_log, score$log, sep = "\n")
-    
     return(round_log)
   }
-  
+
   observeEvent(input$rock, {
     output$result <- renderText(play_round("rock"))
   })
-  
+
   observeEvent(input$paper, {
     output$result <- renderText(play_round("paper"))
   })
-  
+
   observeEvent(input$scissors, {
     output$result <- renderText(play_round("scissors"))
   })
-  
+
   observeEvent(input$reset, {
     score$player <- 0
     score$computer <- 0
@@ -71,14 +71,15 @@ server <- function(input, output, session) {
     score$log <- ""
     output$result <- renderText("Game reset. Let's play again!")
   })
-  
+
   output$score <- renderText({
-    paste0("Score -> You: ", score$player, " | Computer: ", score$computer, " | Ties: ", score$tie)
+    paste0("Score → You: ", score$player, " | Computer: ", score$computer, " | Ties: ", score$tie)
   })
-  
+
   output$log <- renderText({
     score$log
   })
 }
 
+# Run the application 
 shinyApp(ui = ui, server = server)
