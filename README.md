@@ -1,20 +1,10 @@
-<!-- 
-Hi Flook! 👋🏻 
-
-This is the updated version. I have:
-1. Removed the GitHub Stats section as requested.
-2. Fixed the icon links for Google Sheets and Looker Studio.
-
-Just fill in your project details!
--->
-
 <div align="center">
-  
-# 👋🏻 Hi! I'm Kittitouch Tantiwong (Flook 🐥)
+
+# 👋🏻 Hi, I'm Kittitouch Tantiwong (Flook 🐥)
 
 <img src="https://drive.google.com/uc?export=view&id=1N2GH_M63jeDadsR_jlSaIPnXw-zsq5Et" alt="Kittitouch Tantiwong (Flook)" width="200" style="border-radius: 50%;"/>
 
-### Aspiring Data Scientist with a passion for transforming data into actionable insights.
+### Data Scientist with a passion for transforming complex data into clear, actionable insights.
 
 <p>
   <a href="mailto:flook11223344@gmail.com">
@@ -31,7 +21,7 @@ Just fill in your project details!
 
 ### 🎓 About Me
 
-I am a recent graduate of **Data Science Bootcamp 11** at **DataRockie**, where I honed my skills in data analysis, machine learning, and data visualization. I enjoy diving into datasets to uncover hidden patterns and building tools that make data accessible to everyone.
+I'm a recent graduate of **Data Science Bootcamp 11** from **DataRockie**, where I transitioned my career to focus on my passion for data. I specialize in building data-driven solutions, from crafting insightful dashboards to developing predictive machine learning models. I thrive on the challenge of uncovering hidden patterns in data and communicating them through compelling visualizations.
 
 <p align="center">
   <img src="https://yt3.googleusercontent.com/jjULZiKN-Oo34wv49660673oWc1u628QpN2u2l-L7xIvClKSGxrGVUQewGj7jY6K6rR5Ml4bTEk=s900-c-k-c0x00ffffff-no-rj" alt="DataRockie" height="100"/>
@@ -39,66 +29,81 @@ I am a recent graduate of **Data Science Bootcamp 11** at **DataRockie**, where 
 
 ---
 
-## 🚀 My Featured Projects
+## 🚀 Showcase: Interactive Retail Sales Dashboard
 
-Here are some of the projects I'm proud of. You can find more on my repositories page!
+This is my flagship project—a fully interactive dashboard built to analyze retail sales data, providing key insights into business performance.
 
-| Project Title | Description | Technologies Used |
-| :------------- | :------------- | :------------- |
-| **[Project Name 1: Retail Sales Dashboard](https://github.com/YOUR_GITHUB_USERNAME/your-project-repo)** | An interactive dashboard analyzing retail sales data to identify top-performing products and seasonal trends. | <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=Looker&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/> |
-| **[Project Name 2: Customer Churn Prediction](https://github.com/YOUR_GITHUB_USERNAME/your-project-repo)** | Developed a machine learning model to predict customer churn, achieving over 85% accuracy using logistic regression and random forests. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> |
-| **[Project Name 3: Web Scraper for Job Postings](https://github.com/YOUR_GITHUB_USERNAME/your-project-repo)** | A Python script that automates the process of scraping data science job postings from multiple websites and stores the results in a SQLite database. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Beautiful_Soup-C2D5E3?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> |
+<div align="center">
+
+**[View Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_LINK)**  
+<br><br>
+
+<a href="https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_LINK" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Looker Studio Icon" width="80" />
+</a>
+
+</div>
+
+**Key Features:**
+- 📈 Dynamic filters for date ranges, product categories, and store locations.
+- 🗺️ Geospatial visualization of sales distribution to identify key markets.
+- 📊 In-depth analysis of sales growth, profit margins, and performance metrics.
+
+**Technologies Used:**
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Looker Studio" height="40"/> 
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" alt="Google Sheets" height="40"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQL" height="40"/>
+</p>
 
 ---
 
-## 🛠️ My Tech Stack
+## 📁 Other Noteworthy Projects
 
-### Programming & Databases
+| Project Title | Description | Technologies Used |
+| :------------- | :------------- | :------------- |
+| **[Customer Churn Prediction](https://github.com/YOUR_USERNAME/your-repo)** | A machine learning model to predict customer churn, achieving over 85% accuracy using logistic regression and random forests. | <img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> <img src="https://cdn.simpleicons.org/pandas/150458" height="20"/> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="20"/> |
+| **[Automated Web Scraper](https://github.com/YOUR_USERNAME/your-repo)** | A Python script that automates scraping job postings from multiple sites and stores the results in a SQLite database. | <img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> <img src="https://cdn.simpleicons.org/beautifulsoup/C2D5E3" height="20"/> <img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/> |
+
+---
+
+## 🛠️ My Tech Toolbox
+
+### Languages & Databases
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/r/276DC3" alt="R" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" height="40"/></a>
 </p>
 
 ### Data Science & Visualization
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://ggplot2.tidyverse.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="ggplot2" width="40" height="40"/>
-  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.simpleicons.org/matplotlib/11557C" alt="Matplotlib" height="40"/></a>
+  <a href="https://ggplot2.tidyverse.org/" target="_blank"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="ggplot2" height="40"/></a>
 </p>
 
-### Tools
+### BI & Cloud Tools
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Looker Studio" height="40"/></a>
+  <a href="https://www.google.com/sheets/about/" target="_blank"><img src="https://cdn.simpleicons.org/googlesheets/34A853" alt="Google Sheets" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40"/></a>
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to reach out!
+
+<p align="left">
+  <a href="mailto:flook11223344@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://lookerstudio.google.com/" target="_blank">
-    <!-- Fixed Icon Link for Looker Studio -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Looker Studio (Google)" width="40" height="40"/>
-  </a>
-  <a href="https://docs.google.com/spreadsheets" target="_blank">
-    <!-- Fixed Icon Link for Google Sheets -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Sheets (Google Cloud)" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/kittitouch-tantiwong-a74016267" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
