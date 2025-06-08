@@ -82,7 +82,7 @@ This is my flagship project—a fully interactive dashboard built to analyze ret
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="40"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.simpleicons.org/matplotlib/11557C" alt="Matplotlib" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/></a>
   <a href="https://ggplot2.tidyverse.org/" target="_blank"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" alt="ggplot2" height="40"/></a>
 </p>
 
