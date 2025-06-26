@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏻 Hi, I'm Kittitouch Tantiwong (Flook 🐥)
+# 👋🏻 Hi, I'm  Kittitouch Tantiwong (Flook 🐥) 
 
 <img src="https://drive.google.com/uc?export=view&id=1N2GH_M63jeDadsR_jlSaIPnXw-zsq5Et" alt="Kittitouch Tantiwong (Flook)" width="200" style="border-radius: 50%;"/>
 
@@ -19,12 +19,14 @@
 
 ---
 
-### 🎓 About Me
+### 🎓 About Me & Certifications
 
 I'm a recent graduate of **Data Science Bootcamp 11** from **DataRockie**, where I transitioned my career to focus on my passion for data. I specialize in building data-driven solutions, from crafting insightful dashboards to developing predictive machine learning models. I thrive on the challenge of uncovering hidden patterns in data and communicating them through compelling visualizations.
 
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/jjULZiKN-Oo34wv49660673oWc1u628QpN2u2l-L7xIvClKSGxrGVUQewGj7jY6K6rR5Ml4bTEk=s900-c-k-c0x00ffffff-no-rj" alt="DataRockie" height="100"/>
+  <a href="YOUR_CERTIFICATE_VERIFICATION_LINK" target="_blank">
+    <img src="certified professional data analyst digital badge.png" alt="Certified Professional Data Analyst Badge" height="180">
+  </a>
 </p>
 
 ---
@@ -35,14 +37,14 @@ This is my flagship project—a fully interactive dashboard built to analyze ret
 
 <div align="center">
 
-**[View Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_LINK)**  
-<br><br>
+**[Click here to view the Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_LINK)**  
+<br>
 
 <a href="https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_LINK" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Looker Studio Icon" width="80" />
 </a>
 
 </div>
+<br>
 
 **Key Features:**
 - 📈 Dynamic filters for date ranges, product categories, and store locations.
