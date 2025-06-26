@@ -154,8 +154,10 @@ diamonds %>%
 
 mtcars %>%  
   ggplot(aes(hp, mpg , colour = hp)) + 
-  geom_point(size = 5)
-
+  geom_point(size = 5) + 
+  theme_minimal() + 
+  scale_color_gradient(low = "gold", 
+                       high = "red")
 
 
 
