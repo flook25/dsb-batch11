@@ -138,6 +138,26 @@ ggplot() +
              color = "blue") + 
   theme_minimal()
 
+## set color manually
+
+diamonds %>% 
+  ggplot(aes(cut, fill = cut)) + 
+  geom_bar() +
+  theme_minimal() +
+  scale_fill_manual(values = c(
+    "red",
+    "gold",
+    "blue",
+    "salmon",
+    "green"
+  ))
+
+mtcars %>%  
+  ggplot(aes(hp, mpg , colour = hp)) + 
+  geom_point(size = 5)
+
+
+
 
 
 
