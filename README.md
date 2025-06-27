@@ -65,8 +65,7 @@ This is my flagship project—a fully interactive dashboard built to analyze ret
 | Project Title | Description | Technologies Used |
 | :------------- | :------------- | :------------- |
 | **[Customer Churn Prediction](https://github.com/YOUR_USERNAME/your-repo)** | A machine learning model to predict customer churn, achieving over 85% accuracy using logistic regression and random forests. | <img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> <img src="https://cdn.simpleicons.org/pandas/150458" height="20"/> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="20"/> |
-| **[Automated Web Scraper](https://github.com/YOUR_USERNAME/your-repo)** | A Python script that automates scraping job postings from multiple sites and stores the results in a SQLite database. | <img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> <img src="https://cdn.simpleicons.org/beautifulsoup/C2D5E3" height="20"/> <img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/> |
-
+| **[Automated Web Scraper](https://github.com/YOUR_USERNAME/your-repo)** | A Python script that automates scraping job postings from multiple sites and stores the results in a SQLite database. | <img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> <img src="https://img.shields.io/badge/Beautiful%20Soup-A4B494?style=flat" alt="Beautiful Soup" height="20"/> <img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/> |
 ---
 
 ## 🛠️ My Tech Toolbox
